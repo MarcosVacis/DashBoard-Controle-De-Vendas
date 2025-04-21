@@ -1,0 +1,1 @@
+Este dashboard oferece uma visão completa do desempenho comercial da empresa, apresentando indicadores-chave como faturamento total, quantidade de vendas, ticket médio, metas vs. realizado e produtos mais vendidos. Os dados podem ser filtrados por período, região, vendedor ou categoria de produto, permitindo uma análise detalhada e estratégica para tomada de decisões.
